@@ -1,0 +1,47 @@
+{
+ "level": "D3",
+ "stage": "P3",
+ "hash": "24c086446022c729",
+ "options": {
+  "CA1": {
+   "title": "Collar and flat cassette on a shrouded fan",
+   "parts": 36,
+   "made_or_bought": 12,
+   "fasteners": 24,
+   "welds": 0,
+   "bare": [],
+   "bare_share": 0.0,
+   "interference": [],
+   "mass_kg": 4.6,
+   "step_files": 0
+  },
+  "CA2": {
+   "title": "Filter cube on a box fan (Corsi-Rosenthal type)",
+   "parts": 44,
+   "made_or_bought": 28,
+   "fasteners": 16,
+   "welds": 0,
+   "bare": [],
+   "bare_share": 0.0,
+   "interference": [],
+   "mass_kg": 4.5,
+   "step_files": 28
+  },
+  "CA3": {
+   "title": "Return-grille cassette on a ducted system",
+   "parts": 26,
+   "made_or_bought": 10,
+   "fasteners": 16,
+   "welds": 0,
+   "bare": [],
+   "bare_share": 0.0,
+   "interference": [],
+   "mass_kg": 6.0,
+   "step_files": 0
+  }
+ },
+ "failures": [],
+ "warnings": [],
+ "passed": true,
+ "seconds": 9.2
+}

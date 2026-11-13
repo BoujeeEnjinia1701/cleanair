@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use or build on this design, please cite it as below."
+type: software
+title: "CleanAir"
+abstract: "A tool-free clip-on filtration collar that turns existing ceiling fans, portable fans and duct openings into air filtration platforms for crowded and under-resourced spaces. Design Molecule Labs with Helpful Engineering."
+authors:
+  - given-names: Amish
+    family-names: Chadha
+    affiliation: Design Molecule
+    orcid: "https://orcid.org/0009-0000-8079-7141"
+  - given-names: Lillian
+    family-names: Fernandes
+  - given-names: Raksha
+    family-names: Thammaiah
+  - given-names: Ali
+    family-names: Raza
+  - given-names: Michael
+    family-names: Minn
+  - given-names: Bart
+    family-names: Combee
+repository-code: "https://github.com/BoujeeEnjinia1701/cleanair"
+url: "https://helpfulengineering.org"
+license: CERN-OHL-P-2.0
+keywords:
+  - open-hardware
+  - air-filtration
+  - ventilation-retrofit
+  - emergency-response
+  - helpful-engineering

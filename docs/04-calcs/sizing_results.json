@@ -1,0 +1,948 @@
+{
+ "PMAX_Pa": 27.482269503546096,
+ "Q0_m3s": {
+  "rated": 0.8495046,
+  "measured": 0.26815170454545456
+ },
+ "K_Pa_per_mps": {
+  "low (Parker 2 in)": 38.24594881889764,
+  "high (Global Industrial 2 in)": 62.10880577427821
+ },
+ "A_panel_m2": 0.245025,
+ "cases": {
+  "CA1 | fan rated | low-speed fit | media low (Parker 2 in) | clean": {
+   "Q_m3h": 608.7280812686001,
+   "Qf_m3h": 608.7280812686001,
+   "dP_Pa": 26.393432689209313,
+   "v_face": 0.6900974744851435,
+   "share_of_free": 0.1990467546446744,
+   "CADR_E1_m3h": 304.36404063430007,
+   "CADR_E2_m3h": 517.4188690783101
+  },
+  "CA1 | fan rated | low-speed fit | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 245.60350689696298,
+   "Qf_m3h": 245.60350689696298,
+   "dP_Pa": 27.30501990907672,
+   "v_face": 0.2784336143669727,
+   "share_of_free": 0.08030939015547119,
+   "CADR_E1_m3h": 122.80175344848149,
+   "CADR_E2_m3h": 208.76298086241854
+  },
+  "CA1 | fan rated | low-speed fit | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 86.7662638625213,
+   "Qf_m3h": 86.7662638625213,
+   "dP_Pa": 27.460147833144433,
+   "v_face": 0.09836441163885919,
+   "share_of_free": 0.028371523781991845,
+   "CADR_E1_m3h": 43.38313193126065,
+   "CADR_E2_m3h": 73.7513242831431
+  },
+  "CA1 | fan rated | low-speed fit | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 384.15371328685035,
+   "Qf_m3h": 384.15371328685035,
+   "dP_Pa": 27.048632640661097,
+   "v_face": 0.4355039885803607,
+   "share_of_free": 0.12561363976357853,
+   "CADR_E1_m3h": 192.07685664342517,
+   "CADR_E2_m3h": 326.5306562938228
+  },
+  "CA1 | fan rated | low-speed fit | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 151.8465482659598,
+   "Qf_m3h": 151.8465482659598,
+   "dP_Pa": 27.414516902732053,
+   "v_face": 0.1721440536294027,
+   "share_of_free": 0.04965199333887584,
+   "CADR_E1_m3h": 75.9232741329799,
+   "CADR_E2_m3h": 129.06956602606581
+  },
+  "CA1 | fan rated | low-speed fit | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 53.456456609163844,
+   "Qf_m3h": 53.456456609163844,
+   "dP_Pa": 27.473872652315443,
+   "v_face": 0.06060204356603503,
+   "share_of_free": 0.017479617796969826,
+   "CADR_E1_m3h": 26.728228304581922,
+   "CADR_E2_m3h": 45.43798811778927
+  },
+  "CA1 | fan rated | fan laws to high speed | media low (Parker 2 in) | clean": {
+   "Q_m3h": 1109.7741155004733,
+   "Qf_m3h": 1109.7741155004733,
+   "dP_Pa": 48.11795170783991,
+   "v_face": 1.2581189170044704,
+   "share_of_free": 0.3628827761957032,
+   "CADR_E1_m3h": 554.8870577502366,
+   "CADR_E2_m3h": 943.3079981754023
+  },
+  "CA1 | fan rated | fan laws to high speed | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 485.8685028403939,
+   "Qf_m3h": 485.8685028403939,
+   "dP_Pa": 54.016529775431735,
+   "v_face": 0.550815112789391,
+   "share_of_free": 0.15887315149467174,
+   "CADR_E1_m3h": 242.93425142019694,
+   "CADR_E2_m3h": 412.9882274143348
+  },
+  "CA1 | fan rated | fan laws to high speed | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 174.52619141245052,
+   "Qf_m3h": 174.52619141245052,
+   "dP_Pa": 55.23477448026526,
+   "v_face": 0.19785531115016666,
+   "share_of_free": 0.0570679636279422,
+   "CADR_E1_m3h": 87.26309570622526,
+   "CADR_E2_m3h": 148.34726270058295
+  },
+  "CA1 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 740.8407244617301,
+   "Qf_m3h": 740.8407244617301,
+   "dP_Pa": 52.163308353194296,
+   "v_face": 0.8398697689144307,
+   "share_of_free": 0.24224599858347834,
+   "CADR_E1_m3h": 370.42036223086507,
+   "CADR_E2_m3h": 629.7146157924706
+  },
+  "CA1 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 303.90895852130984,
+   "Qf_m3h": 303.90895852130984,
+   "dP_Pa": 54.86800572958339,
+   "v_face": 0.344532823772302,
+   "share_of_free": 0.09937457094971384,
+   "CADR_E1_m3h": 151.95447926065492,
+   "CADR_E2_m3h": 258.3226147431134
+  },
+  "CA1 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 107.68884807307998,
+   "Qf_m3h": 107.68884807307998,
+   "dP_Pa": 55.34653596039432,
+   "v_face": 0.12208374210463784,
+   "share_of_free": 0.03521295695066146,
+   "CADR_E1_m3h": 53.84442403653999,
+   "CADR_E2_m3h": 91.53552086211798
+  },
+  "CA1 | fan measured | low-speed fit | media low (Parker 2 in) | clean": {
+   "Q_m3h": 478.2629065402141,
+   "Qf_m3h": 478.2629065402141,
+   "dP_Pa": 20.73668066242022,
+   "v_face": 0.5421928675534402,
+   "share_of_free": 0.49543152297867293,
+   "CADR_E1_m3h": 239.13145327010704,
+   "CADR_E2_m3h": 406.523470559182
+  },
+  "CA1 | fan measured | low-speed fit | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 232.81924410120442,
+   "Qf_m3h": 232.81924410120442,
+   "dP_Pa": 25.88372688858454,
+   "v_face": 0.26394046423970846,
+   "share_of_free": 0.24117695749859375,
+   "CADR_E1_m3h": 116.40962205060221,
+   "CADR_E2_m3h": 197.89635748602376
+  },
+  "CA1 | fan measured | low-speed fit | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 86.1446635375611,
+   "Qf_m3h": 86.1446635375611,
+   "dP_Pa": 27.26342117860525,
+   "v_face": 0.09765972127284188,
+   "share_of_free": 0.08923707289289988,
+   "CADR_E1_m3h": 43.07233176878055,
+   "CADR_E2_m3h": 73.22296400692693
+  },
+  "CA1 | fan measured | low-speed fit | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 341.4739718339244,
+   "Qf_m3h": 341.4739718339244,
+   "dP_Pa": 24.04351097235493,
+   "v_face": 0.3871191962656015,
+   "share_of_free": 0.3537321577939112,
+   "CADR_E1_m3h": 170.7369859169622,
+   "CADR_E2_m3h": 290.25287605883574
+  },
+  "CA1 | fan measured | low-speed fit | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 148.6141194819016,
+   "Qf_m3h": 148.6141194819016,
+   "dP_Pa": 26.83093120684761,
+   "v_face": 0.1684795423164321,
+   "share_of_free": 0.15394904882689675,
+   "CADR_E1_m3h": 74.3070597409508,
+   "CADR_E2_m3h": 126.32200155961637
+  },
+  "CA1 | fan measured | low-speed fit | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 53.3097224529413,
+   "Qf_m3h": 53.3097224529413,
+   "dP_Pa": 27.39845883371393,
+   "v_face": 0.0604356952838614,
+   "share_of_free": 0.05522342758189696,
+   "CADR_E1_m3h": 26.65486122647065,
+   "CADR_E2_m3h": 45.31326408500011
+  },
+  "CA1 | fan measured | fan laws to high speed | media low (Parker 2 in) | clean": {
+   "Q_m3h": 637.9483525063591,
+   "Qf_m3h": 637.9483525063591,
+   "dP_Pa": 27.66037483596717,
+   "v_face": 0.7232236534892801,
+   "share_of_free": 0.7077094321581415,
+   "CADR_E1_m3h": 318.97417625317956,
+   "CADR_E2_m3h": 542.2560996304053
+  },
+  "CA1 | fan measured | fan laws to high speed | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 400.2025550274668,
+   "Qf_m3h": 400.2025550274668,
+   "dP_Pa": 44.49260057704606,
+   "v_face": 0.4536980977309195,
+   "share_of_free": 0.44396559980755296,
+   "CADR_E1_m3h": 200.1012775137334,
+   "CADR_E2_m3h": 340.1721717733468
+  },
+  "CA1 | fan measured | fan laws to high speed | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 168.94591976693016,
+   "Qf_m3h": 168.94591976693016,
+   "dP_Pa": 53.468706915365956,
+   "v_face": 0.1915291180797086,
+   "share_of_free": 0.18742053408233741,
+   "CADR_E1_m3h": 84.47295988346508,
+   "CADR_E2_m3h": 143.60403180189064
+  },
+  "CA1 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 522.5507277227125,
+   "Qf_m3h": 522.5507277227125,
+   "dP_Pa": 36.79329961266728,
+   "v_face": 0.5924006934924015,
+   "share_of_free": 0.5796928189210712,
+   "CADR_E1_m3h": 261.27536386135625,
+   "CADR_E2_m3h": 444.16811856430564
+  },
+  "CA1 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 277.7907812066491,
+   "Qf_m3h": 277.7907812066491,
+   "dP_Pa": 50.152605731111166,
+   "v_face": 0.3149233992071661,
+   "share_of_free": 0.30816782464308434,
+   "CADR_E1_m3h": 138.89539060332456,
+   "CADR_E2_m3h": 236.12216402565173
+  },
+  "CA1 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 106.32251618858524,
+   "Qf_m3h": 106.32251618858524,
+   "dP_Pa": 54.64431155989091,
+   "v_face": 0.12053477104216719,
+   "share_of_free": 0.11794912121306628,
+   "CADR_E1_m3h": 53.16125809429262,
+   "CADR_E2_m3h": 90.37413876029746
+  },
+  "CA2 | fan rated | low-speed fit | media low (Parker 2 in) | clean": {
+   "Q_m3h": 1726.921027337603,
+   "Qf_m3h": 1726.921027337603,
+   "dP_Pa": 18.719102706592324,
+   "v_face": 0.4894401442419716,
+   "share_of_free": 0.5646823870895535,
+   "CADR_E1_m3h": 863.4605136688015,
+   "CADR_E2_m3h": 1467.8828732369625
+  },
+  "CA2 | fan rated | low-speed fit | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 902.6507730676873,
+   "Qf_m3h": 902.6507730676873,
+   "dP_Pa": 25.088095891782913,
+   "v_face": 0.25582728890127066,
+   "share_of_free": 0.29515593659190936,
+   "CADR_E1_m3h": 451.32538653384364,
+   "CADR_E2_m3h": 767.2531571075342
+  },
+  "CA2 | fan rated | low-speed fit | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 342.97595558761486,
+   "Qf_m3h": 342.97595558761486,
+   "dP_Pa": 27.136614002916815,
+   "v_face": 0.09720548798524382,
+   "share_of_free": 0.11214900869793697,
+   "CADR_E1_m3h": 171.48797779380743,
+   "CADR_E2_m3h": 291.52956224947263
+  },
+  "CA2 | fan rated | low-speed fit | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 1285.4265474675885,
+   "Qf_m3h": 1285.4265474675885,
+   "dP_Pa": 22.627030057524024,
+   "v_face": 0.3643127536497377,
+   "share_of_free": 0.4203190069272231,
+   "CADR_E1_m3h": 642.7132737337943,
+   "CADR_E2_m3h": 1092.6125653474503
+  },
+  "CA2 | fan rated | low-speed fit | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 586.4935410793912,
+   "Qf_m3h": 586.4935410793912,
+   "dP_Pa": 26.47152220263628,
+   "v_face": 0.166222704338387,
+   "share_of_free": 0.19177632766444477,
+   "CADR_E1_m3h": 293.2467705396956,
+   "CADR_E2_m3h": 498.51950991748254
+  },
+  "CA2 | fan rated | low-speed fit | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 212.85502433974972,
+   "Qf_m3h": 212.85502433974972,
+   "dP_Pa": 27.349137050328245,
+   "v_face": 0.06032690097942096,
+   "share_of_free": 0.0696010305888049,
+   "CADR_E1_m3h": 106.42751216987486,
+   "CADR_E2_m3h": 180.92677068878726
+  },
+  "CA2 | fan rated | fan laws to high speed | media low (Parker 2 in) | clean": {
+   "Q_m3h": 2277.361792507345,
+   "Qf_m3h": 2277.361792507345,
+   "dP_Pa": 24.68565071544539,
+   "v_face": 0.645444850442513,
+   "share_of_free": 0.7446698910385029,
+   "CADR_E1_m3h": 1138.6808962536725,
+   "CADR_E2_m3h": 1935.7575236312432
+  },
+  "CA2 | fan rated | fan laws to high speed | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 1508.6181417342086,
+   "Qf_m3h": 1508.6181417342086,
+   "dP_Pa": 41.93023230377605,
+   "v_face": 0.4275692224529834,
+   "share_of_free": 0.49329997144944127,
+   "CADR_E1_m3h": 754.3090708671043,
+   "CADR_E2_m3h": 1282.3254204740772
+  },
+  "CA2 | fan rated | fan laws to high speed | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 667.0634383407032,
+   "Qf_m3h": 667.0634383407032,
+   "dP_Pa": 52.778752407575,
+   "v_face": 0.18905764670858508,
+   "share_of_free": 0.21812171416032852,
+   "CADR_E1_m3h": 333.5317191703516,
+   "CADR_E2_m3h": 567.0039225895977
+  },
+  "CA2 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 1914.4408100816909,
+   "Qf_m3h": 1914.4408100816909,
+   "dP_Pa": 33.69940494726036,
+   "v_face": 0.5425865869927362,
+   "share_of_free": 0.6259990986647757,
+   "CADR_E1_m3h": 957.2204050408454,
+   "CADR_E2_m3h": 1627.274688569437
+  },
+  "CA2 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 1075.824567490764,
+   "Qf_m3h": 1075.824567490764,
+   "dP_Pa": 48.55759173760157,
+   "v_face": 0.3049078233203993,
+   "share_of_free": 0.35178168268461796,
+   "CADR_E1_m3h": 537.912283745382,
+   "CADR_E2_m3h": 914.4508823671493
+  },
+  "CA2 | fan rated | fan laws to high speed | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 423.03756834245,
+   "Qf_m3h": 423.03756834245,
+   "dP_Pa": 54.354894698507124,
+   "v_face": 0.1198963734829921,
+   "share_of_free": 0.13832819227898302,
+   "CADR_E1_m3h": 211.518784171225,
+   "CADR_E2_m3h": 359.5819330910825
+  },
+  "CA2 | fan measured | low-speed fit | media low (Parker 2 in) | clean": {
+   "Q_m3h": 798.9049511538616,
+   "Qf_m3h": 798.9049511538616,
+   "dP_Pa": 8.65979601656138,
+   "v_face": 0.22642387714231588,
+   "share_of_free": 0.8275839318767646,
+   "CADR_E1_m3h": 399.4524755769308,
+   "CADR_E2_m3h": 679.0692084807823
+  },
+  "CA2 | fan measured | low-speed fit | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 602.9919404381169,
+   "Qf_m3h": 602.9919404381169,
+   "dP_Pa": 16.759437952145113,
+   "v_face": 0.17089864425345397,
+   "share_of_free": 0.6246380626844666,
+   "CADR_E1_m3h": 301.49597021905845,
+   "CADR_E2_m3h": 512.5431493723994
+  },
+  "CA2 | fan measured | low-speed fit | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 311.2385031813382,
+   "Qf_m3h": 311.2385031813382,
+   "dP_Pa": 24.625513789172928,
+   "v_face": 0.08821052930577895,
+   "share_of_free": 0.3224113004209484,
+   "CADR_E1_m3h": 155.6192515906691,
+   "CADR_E2_m3h": 264.55272770413745
+  },
+  "CA2 | fan measured | low-speed fit | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 711.9821639307023,
+   "Qf_m3h": 711.9821639307023,
+   "dP_Pa": 12.532837333583391,
+   "v_face": 0.2017884127273584,
+   "share_of_free": 0.7375408023205736,
+   "CADR_E1_m3h": 355.99108196535116,
+   "CADR_E2_m3h": 605.1848393410969
+  },
+  "CA2 | fan measured | low-speed fit | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 466.62154443824096,
+   "Qf_m3h": 466.62154443824096,
+   "dP_Pa": 21.06107179133157,
+   "v_face": 0.13224884774746368,
+   "share_of_free": 0.4833722608513856,
+   "CADR_E1_m3h": 233.31077221912048,
+   "CADR_E2_m3h": 396.6283127725048
+  },
+  "CA2 | fan measured | low-speed fit | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 204.31026057076963,
+   "Qf_m3h": 204.31026057076963,
+   "dP_Pa": 26.251244641608274,
+   "v_face": 0.05790516290026234,
+   "share_of_free": 0.21164456237467963,
+   "CADR_E1_m3h": 102.15513028538481,
+   "CADR_E2_m3h": 173.66372148515418
+  },
+  "CA2 | fan measured | fan laws to high speed | media low (Parker 2 in) | clean": {
+   "Q_m3h": 825.45135480712,
+   "Qf_m3h": 825.45135480712,
+   "dP_Pa": 8.947547945346514,
+   "v_face": 0.2339476002468909,
+   "share_of_free": 0.9157163072678245,
+   "CADR_E1_m3h": 412.72567740356,
+   "CADR_E2_m3h": 701.633651586052
+  },
+  "CA2 | fan measured | fan laws to high speed | media low (Parker 2 in) | loaded": {
+   "Q_m3h": 720.3979158021876,
+   "Qf_m3h": 720.3979158021876,
+   "dP_Pa": 20.02259625886407,
+   "v_face": 0.20417358653940856,
+   "share_of_free": 0.7991750396677965,
+   "CADR_E1_m3h": 360.1989579010938,
+   "CADR_E2_m3h": 612.3382284318595
+  },
+  "CA2 | fan measured | fan laws to high speed | media low (Parker 2 in) | heavily loaded": {
+   "Q_m3h": 491.860117049855,
+   "Qf_m3h": 491.860117049855,
+   "dP_Pa": 38.916483567903455,
+   "v_face": 0.13940190826612223,
+   "share_of_free": 0.5456461213059095,
+   "CADR_E1_m3h": 245.9300585249275,
+   "CADR_E2_m3h": 418.0810994923767
+  },
+  "CA2 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | clean": {
+   "Q_m3h": 781.5614760474646,
+   "Qf_m3h": 781.5614760474646,
+   "dP_Pa": 13.757623914932196,
+   "v_face": 0.2215084277249103,
+   "share_of_free": 0.8670269720693676,
+   "CADR_E1_m3h": 390.7807380237323,
+   "CADR_E2_m3h": 664.3272546403449
+  },
+  "CA2 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | loaded": {
+   "Q_m3h": 629.3319978449497,
+   "Qf_m3h": 629.3319978449497,
+   "dP_Pa": 28.405045898923078,
+   "v_face": 0.17836388516051357,
+   "share_of_free": 0.6981508598368212,
+   "CADR_E1_m3h": 314.66599892247484,
+   "CADR_E2_m3h": 534.9321981682073
+  },
+  "CA2 | fan measured | fan laws to high speed | media high (Global Industrial 2 in) | heavily loaded": {
+   "Q_m3h": 361.8089899027627,
+   "Qf_m3h": 361.8089899027627,
+   "dP_Pa": 46.487808693194225,
+   "v_face": 0.10254310498440145,
+   "share_of_free": 0.40137361243713315,
+   "CADR_E1_m3h": 180.90449495138134,
+   "CADR_E2_m3h": 307.53764141734825
+  }
+ },
+ "CA1_Q": [
+  341.4739718339244,
+  1109.7741155004733
+ ],
+ "CA2_Q": [
+  711.9821639307023,
+  2277.361792507345
+ ],
+ "CA1_dP": [
+  20.73668066242022,
+  52.163308353194296
+ ],
+ "CA2_dP": [
+  8.65979601656138,
+  33.69940494726036
+ ],
+ "CA1_v": [
+  0.3871191962656015,
+  1.2581189170044704
+ ],
+ "CA1_share": [
+  0.12561363976357853,
+  0.7077094321581415
+ ],
+ "CA2_v": [
+  0.2017884127273584,
+  0.645444850442513
+ ],
+ "CA1_CADR_E1": [
+  170.7369859169622,
+  554.8870577502366
+ ],
+ "CA2_CADR_E1": [
+  355.99108196535116,
+  1138.6808962536725
+ ],
+ "CA1_CADR_E2": [
+  290.25287605883574,
+  943.3079981754023
+ ],
+ "CA2_CADR_E2": [
+  605.1848393410969,
+  1935.7575236312432
+ ],
+ "CA1_loaded_Q": [
+  148.6141194819016,
+  485.8685028403939
+ ],
+ "CA2_loaded_Q": [
+  466.62154443824096,
+  1508.6181417342086
+ ],
+ "CA1_heavy_Q": [
+  53.3097224529413,
+  174.52619141245052
+ ],
+ "CA2_heavy_Q": [
+  204.31026057076963,
+  667.0634383407032
+ ],
+ "PMAX_range": [
+  27.482269503546096,
+  55.41524822695035
+ ],
+ "flat_panel_at_free_air_Pa": [
+  132.59916111832717,
+  215.33197104685607
+ ],
+ "v_free_air": 3.4670119375573925,
+ "measured": {
+  "UC Davis 1 filter on box fan, high (cfm CADR)": [
+   77,
+   83
+  ],
+  "UC Davis 1 filter airflow (cfm)": [
+   142,
+   154
+  ],
+  "UC Davis 4-filter cube, high (cfm CADR)": [
+   239,
+   270
+  ],
+  "UC Davis 4-filter airflow (cfm)": [
+   443,
+   500
+  ],
+  "Dal Porto 5-filter cube CADR (m3/h)": [
+   1020,
+   1450
+  ],
+  "EPA ORD MS2 virus CADR (cfm)": [
+   234,
+   234
+  ]
+ },
+ "five_panel_ref_m3h": [
+  1020.0,
+  1450.0
+ ],
+ "CA2_low_speed_CADR_m3h": [
+  276.937,
+  280.33500000000004
+ ],
+ "CA1_meas_CADR_m3h": [
+  130.823,
+  141.017
+ ],
+ "CA2_meas_CADR_m3h": [
+  397.56600000000003,
+  458.73
+ ],
+ "one_vs_four_measured": [
+  0.284,
+  0.3476297968397291
+ ],
+ "ach": {
+  "CA1 model | ward 50 m2 x 3 m": {
+   "ACH": [
+    1.138246572779748,
+    3.699247051668244
+   ],
+   "units_for_5ACH": [
+    2,
+    5
+   ],
+   "units_for_6ACH": [
+    2,
+    6
+   ]
+  },
+  "CA1 measured | ward 50 m2 x 3 m": {
+   "ACH": [
+    0.8721533333333333,
+    0.9401133333333334
+   ],
+   "units_for_5ACH": [
+    6,
+    6
+   ],
+   "units_for_6ACH": [
+    7,
+    7
+   ]
+  },
+  "CA2 model | ward 50 m2 x 3 m": {
+   "ACH": [
+    2.3732738797690076,
+    7.591205975024483
+   ],
+   "units_for_5ACH": [
+    1,
+    3
+   ],
+   "units_for_6ACH": [
+    1,
+    3
+   ]
+  },
+  "CA2 measured | ward 50 m2 x 3 m": {
+   "ACH": [
+    2.65044,
+    3.0582000000000003
+   ],
+   "units_for_5ACH": [
+    2,
+    2
+   ],
+   "units_for_6ACH": [
+    2,
+    3
+   ]
+  },
+  "CA1 model | clinic room 20 m2 x 3 m": {
+   "ACH": [
+    2.8456164319493698,
+    9.248117629170611
+   ],
+   "units_for_5ACH": [
+    1,
+    2
+   ],
+   "units_for_6ACH": [
+    1,
+    3
+   ]
+  },
+  "CA1 measured | clinic room 20 m2 x 3 m": {
+   "ACH": [
+    2.1803833333333333,
+    2.350283333333333
+   ],
+   "units_for_5ACH": [
+    3,
+    3
+   ],
+   "units_for_6ACH": [
+    3,
+    3
+   ]
+  },
+  "CA2 model | clinic room 20 m2 x 3 m": {
+   "ACH": [
+    5.93318469942252,
+    18.97801493756121
+   ],
+   "units_for_5ACH": [
+    1,
+    1
+   ],
+   "units_for_6ACH": [
+    1,
+    2
+   ]
+  },
+  "CA2 measured | clinic room 20 m2 x 3 m": {
+   "ACH": [
+    6.6261,
+    7.6455
+   ],
+   "units_for_5ACH": [
+    1,
+    1
+   ],
+   "units_for_6ACH": [
+    1,
+    1
+   ]
+  }
+ },
+ "CADR_needed_m3h": {
+  "ward 50 m2 x 3 m": {
+   "CDC 5 ACH": 750.0,
+   "Lancet good 4 ACHe": 600.0,
+   "Lancet better 6 ACHe": 900.0
+  },
+  "clinic room 20 m2 x 3 m": {
+   "CDC 5 ACH": 300.0,
+   "Lancet good 4 ACHe": 240.0,
+   "Lancet better 6 ACHe": 360.0
+  }
+ },
+ "leak": {
+  "CA1 gap 1 mm": {
+   "bypass_min": 0.024535812226282094,
+   "bypass_share": 0.05481292210081967
+  },
+  "CA1 box fan gap 1 mm": {
+   "bypass_min": 0.03620931980631392,
+   "bypass_share": 0.07984803116052408
+  },
+  "CA1 gap 3 mm": {
+   "bypass_min": 0.07055711900703487,
+   "bypass_share": 0.14992564244537132
+  },
+  "CA1 box fan gap 3 mm": {
+   "bypass_min": 0.1021215558782661,
+   "bypass_share": 0.21001124915803804
+  },
+  "CA1 gap 5 mm": {
+   "bypass_min": 0.11292840411401939,
+   "bypass_share": 0.22971286654532375
+  },
+  "CA1 box fan gap 5 mm": {
+   "bypass_min": 0.16061961780699463,
+   "bypass_share": 0.3118436809759124
+  },
+  "CA2 gap 0.5 mm": {
+   "bypass_min": 0.018680619831024314,
+   "bypass_share": 0.041920076963163355
+  },
+  "CA2 gap 1.0 mm": {
+   "bypass_min": 0.03691569017706331,
+   "bypass_share": 0.08160331045931368
+  },
+  "CA2 gap 2.0 mm": {
+   "bypass_min": 0.07210398764616022,
+   "bypass_share": 0.15486095300547353
+  }
+ },
+ "perim_mm": {
+  "CA1": 1438.8494353441251,
+  "CA1 box fan": 2146,
+  "CA2": 6216.0
+ },
+ "ca3": {
+  "400 cfm": {
+   "v_face": 0.7704470972349761,
+   "dP_low": 29.466480248517147,
+   "dP_high": 47.85154912152357,
+   "CADR_E1_m3h": 339.80183999999997,
+   "DOE_limit_Pa": 24.908900000000003
+  },
+  "600 cfm": {
+   "v_face": 1.155670645852464,
+   "dP_low": 44.199720372775715,
+   "dP_high": 71.77732368228534,
+   "CADR_E1_m3h": 509.70275999999996,
+   "DOE_limit_Pa": 24.908900000000003
+  },
+  "800 cfm": {
+   "v_face": 1.5408941944699521,
+   "dP_low": 58.932960497034294,
+   "dP_high": 95.70309824304714,
+   "CADR_E1_m3h": 679.6036799999999,
+   "DOE_limit_Pa": 24.908900000000003
+  }
+ },
+ "ca1_sizes": {
+  "12 in": {
+   "Q0_m3h": 1100.9579616,
+   "Q_m3h": 502.04043014004606,
+   "CADR_E1": 251.02021507002303
+  },
+  "16 in": {
+   "Q0_m3h": 1957.2585984000007,
+   "Q_m3h": 578.4736281039471,
+   "CADR_E1": 289.23681405197357
+  },
+  "20 in": {
+   "Q0_m3h": 3058.2165600000003,
+   "Q_m3h": 608.7280812686001,
+   "CADR_E1": 304.36404063430007
+  },
+  "24 in": {
+   "Q0_m3h": 4403.8318464,
+   "Q_m3h": 621.2275519019398,
+   "CADR_E1": 310.6137759509699
+  }
+ },
+ "motor": {
+  "current_A": [
+   0.4,
+   0.9
+  ],
+  "power_W": [
+   52.8,
+   97.8
+  ],
+  "winding_max_C": 92,
+  "class_A_limit_C": 105,
+  "housing_max_C": 54
+ },
+ "CADR_per_W_CA2": [
+  3.8598640776699034,
+  14.795918367346939
+ ],
+ "lancet_people_two_cubes": 22.087000000000003,
+ "uv": {
+  "6 x 10 mW, path 0.10 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.006325518716403118,
+   "single_pass_D90_0p5": 0.028709899079616852,
+   "single_pass_D90_1": 0.014459487935486681,
+   "electric_W": 13.544999999999998
+  },
+  "6 x 10 mW, path 0.10 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.0019463420256706093,
+   "single_pass_D90_0p5": 0.008923186214841339,
+   "single_pass_D90_1": 0.0044715906689760665,
+   "electric_W": 13.544999999999998
+  },
+  "6 x 10 mW, path 0.30 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.018976556149209352,
+   "single_pass_D90_0p5": 0.08368058669612188,
+   "single_pass_D90_1": 0.04275425657573273,
+   "electric_W": 13.544999999999998
+  },
+  "6 x 10 mW, path 0.30 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.005839026077011827,
+   "single_pass_D90_0p5": 0.02653139938095639,
+   "single_pass_D90_1": 0.01335487604760166,
+   "electric_W": 13.544999999999998
+  },
+  "8 x 40 mW, path 0.10 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.033736099820816635,
+   "single_pass_D90_0p5": 0.14389348835248594,
+   "single_pass_D90_1": 0.0747397600417955,
+   "electric_W": 18.06
+  },
+  "8 x 40 mW, path 0.10 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.010380490803576583,
+   "single_pass_D90_0p5": 0.04667931057437524,
+   "single_pass_D90_1": 0.02361857380139354,
+   "electric_W": 18.06
+  },
+  "8 x 40 mW, path 0.30 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.10120829946244989,
+   "single_pass_D90_0p5": 0.37254382010986353,
+   "single_pass_D90_1": 0.2078786836032397,
+   "electric_W": 18.06
+  },
+  "8 x 40 mW, path 0.30 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.03114147241072975,
+   "single_pass_D90_0p5": 0.1336027698749057,
+   "single_pass_D90_1": 0.06919538563396976,
+   "electric_W": 18.06
+  },
+  "8 x 65 mW, path 0.10 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.05482116220882703,
+   "single_pass_D90_0p5": 0.22311331963397163,
+   "single_pass_D90_1": 0.11858824584305183,
+   "electric_W": 18.06
+  },
+  "8 x 65 mW, path 0.10 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.01686829755581195,
+   "single_pass_D90_0p5": 0.07474081525352161,
+   "single_pass_D90_1": 0.03809606262034748,
+   "electric_W": 18.06
+  },
+  "8 x 65 mW, path 0.30 m, Q 341 m3/h": {
+   "dose_mJcm2": 0.16446348662648108,
+   "single_pass_D90_0p5": 0.5311077801161871,
+   "single_pass_D90_1": 0.3152429482774106,
+   "electric_W": 18.06
+  },
+  "8 x 65 mW, path 0.30 m, Q 1110 m3/h": {
+   "dose_mJcm2": 0.05060489266743584,
+   "single_pass_D90_0p5": 0.20788139372103842,
+   "single_pass_D90_1": 0.1099895470956751,
+   "electric_W": 18.06
+  }
+ },
+ "uv_best_single_pass": 0.5311077801161871,
+ "uv_dose_range_mJcm2": [
+  0.0019463420256706093,
+  0.16446348662648108
+ ],
+ "uv_low": {
+  "dose_mJcm2": 0.002976748109232534,
+  "sp_sars": 0.013614898977949541,
+  "sp_virus": 0.0068307792616353336,
+  "electric_W": 13.544999999999998,
+  "eACH_ward_add": 0.0658619870033344
+ },
+ "uv_high": {
+  "dose_mJcm2": 0.16446348662648108,
+  "sp_sars": 0.5311077801161871,
+  "sp_virus": 0.3152429482774106,
+  "electric_W": 18.06,
+  "eACH_ward_add": 1.2090632209878196
+ },
+ "uv_eye": {
+  "I_W_per_sr": 0.047517946711574964,
+  "E_uW_cm2_1m": 4.751794671157496,
+  "t_limit_s_1m": 657.6462613101035,
+  "t_limit_s_1m_65mW": 404.70539157544835
+ },
+ "ceiling": {
+  "span_in": [
+   29,
+   54
+  ],
+  "kit_in": [
+   12,
+   24
+  ],
+  "static_Pa": "about 0 (no shroud, free rotor)"
+ },
+ "ca2_mass": {
+  "kit_kg": 4.405941389782944,
+  "fan_kg": 3.2886,
+  "total_kg": 7.694541389782945,
+  "sheet_m2": 0.6626991296326927,
+  "z_cg_m": 0.4207387747934652,
+  "tip_angle_deg": 28.13669625805421,
+  "push_at_top_N": 26.683073813980215
+ },
+ "ca2_envelope_mm": {
+  "width": 576.0,
+  "height": 638.5,
+  "cube": 555.0
+ },
+ "sheets_needed": 2,
+ "time_min": {
+  "ca2_first_assembly": [
+   8,
+   12
+  ],
+  "ca2_filter_set_swap": [
+   4,
+   6
+  ],
+  "ca2_one_panel": [
+   1.5,
+   2.5
+  ],
+  "ca1_cassette_swap": [
+   1,
+   2
+  ]
+ },
+ "bom_total": 111.83000000000001,
+ "budget": 150.0,
+ "filters_share": 0.4828757936153089,
+ "cost_per_CADR_usd_per_m3h": [
+  0.24378174525319907,
+  0.2812866291383066
+ ],
+ "filters_per_year_usd": 108.0,
+ "energy_kwh_year": [
+  586.92,
+  858.48
+ ]
+}
